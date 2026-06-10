@@ -12,7 +12,7 @@ const Footer = () => {
         </h2>
         <div className="flex items-center justify-center gap-6">
         <a
-          href="https://github.com/raulperezvaliente"
+          href="https://github.com/RaulPValiente/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-text-muted hover:text-text-primary transition-colors duration-200 p-2"
@@ -32,7 +32,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://instagram.com/raulperezvaliente"
+          href="https://instagram.com/raulpvaliente"
           target="_blank"
           rel="noopener noreferrer"
           className="text-text-muted hover:text-text-primary transition-colors duration-200 p-2"
