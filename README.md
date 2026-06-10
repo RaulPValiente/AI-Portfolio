@@ -4,8 +4,8 @@
 
 ### Full Stack Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raulperezvaliente)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raulperezvaliente)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaulPValiente/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulperezvaliente/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulperezvaliente95@gmail.com)
 
 </div>
@@ -15,8 +15,6 @@
 ## About
 
 A premium single-page portfolio built with a dark minimalist design inspired by Vercel and Linear. Designed to showcase projects, technical skills, and career journey in a clean, responsive, and accessible interface.
-
-**Live Demo:** [raulperezvaliente.dev](https://raulperezvaliente.dev)
 
 ---
 
@@ -28,7 +26,6 @@ A premium single-page portfolio built with a dark minimalist design inspired by 
 | **Build** | Vite |
 | **Language** | JavaScript (ES6+) |
 | **Package Manager** | Bun |
-| **Deployment** | Static (Vercel / Netlify) |
 
 ---
 
